@@ -3,5 +3,5 @@ Grupo 4 - Programacion III
 Integrantes: 
   Baltazar Marenda
   Nicolas Niño
-  Valentin Doroszuck
+  Valentin Doroszuk
   Mariano De Martino
