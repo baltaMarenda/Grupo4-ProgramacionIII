@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Clase 1/src"/>
+	<classpathentry kind="src" path="Clase 12/Clase12Actividad4/src"/>
+	<classpathentry kind="src" path="Clase 12/src"/>
+	<classpathentry kind="src" path="Clase 13/src"/>
+	<classpathentry kind="src" path="Clase 2/src"/>
+	<classpathentry kind="src" path="Clase 3/src"/>
+	<classpathentry kind="src" path="Clase 4/src"/>
+	<classpathentry kind="src" path="Clase 5/src"/>
+	<classpathentry kind="src" path="Clase 6/src"/>
+	<classpathentry kind="src" path="Clase 7/src"/>
+	<classpathentry kind="output" path="out/production/Clase 11"/>
+</classpath>
