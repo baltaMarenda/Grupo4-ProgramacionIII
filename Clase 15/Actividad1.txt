@@ -1,0 +1,2 @@
+El Problema del Viajante (TSP, por sus siglas en inglés) es un problema de optimización que busca determinar la ruta más corta para recorrer un grupo de ciudades, visitando cada una solo una vez y regresando al punto de inicio.
+Para un total de 15 ciudades, el número de rutas posibles es (15-1)!/2 = 43,589,145,600.
